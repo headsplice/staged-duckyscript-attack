@@ -1,1 +1,1 @@
-payload example
+staged duckyscript attack that grabs a single github hosted file instead of a entire directory and executes it for less traceablillity without checking the network history
